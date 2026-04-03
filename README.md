@@ -77,6 +77,8 @@ Your backend also needs these routes working:
 - `DELETE /api/v1/anime/:id` — delete anime
 - `GET /api/v1/anime/:id` — get single anime
 
+**Live Demo:** [https://anitrackv1.netlify.app/](https://anitrackv1.netlify.app/)
+
 If these don't exist yet, you need to create a MongoDB/Express CRUD backend.
 
 ## No other changes needed
