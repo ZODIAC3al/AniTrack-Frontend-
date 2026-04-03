@@ -1,4 +1,4 @@
-# AniTrack — Fix Guide
+# AniTrack
 
 ## What was broken & what's fixed
 
